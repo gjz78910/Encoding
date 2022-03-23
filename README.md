@@ -19,12 +19,6 @@ Each txt file corresponds to a subject system, and contains the RMSE and trainin
 
 <!-- --- -->
 
-# Installation
-Download all the codes into the same folder.
-Extract all the zip files to the folder as well.
-
-<!-- --- -->
-
 # Datasets
 Five subject systems and their datasets are applied in this study as given below:
  - MongoDB
@@ -36,6 +30,11 @@ Five subject systems and their datasets are applied in this study as given below
 The datasets are originally from 'https://github.com/anonymous12138/multiobj' and 'https://github.com/FlashRepo/Flash-MultiConfig',
 which are the repositories of two excellent studies in the domain of performance modeling.
 Details of the datasets are given in our paper.
+
+<!-- --- -->
+
+# Installation
+Download all the codes into the same folder.
 
 <!-- --- -->
 
