@@ -41,9 +41,9 @@ Download all the codes into the same folder.
 # Usage
 
 <details>
-<summary>To run the default experiment</summary>
+<summary> **To run the default experiment**</summary>
  - Command line: 
-</details>
+
 
  Move to the folder with the codes, and run 
 ```
@@ -53,7 +53,7 @@ python Encoding.py
  - Python IDE (e.g., Pycharm): 
 
 Open the Encoding.py file on the IDE, and click 'Run'.
-
+</details>
 
 
 #### To switch between subject systems
