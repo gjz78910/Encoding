@@ -5,10 +5,10 @@ This project contains all the codes and dataset used in the paper ***'Does Confi
 
  - **mlp_sparse_model.py, mlp_plain_model.py, utils**: We take these codes from 'https://github.com/DeepPerf/DeepPerf', which is a state-of-the-art deep learning model for performance prediction. We use their model as the neural network performance prediction model in our paper.
 
- - **Data.zip**: contains the datasets for the five systems used in this paper.
+ - **Data**: The folder contains the datasets for the five subject systems used in this paper.
 
 
- - **Results.zip**: contains the RMSE and training time recorded by 'Encoding.py'. 
+ - **Results**: The folder contains the raw RMSE and training time recorded by 'Encoding.py'. 
 Each txt file corresponds to a subject system, and contains the RMSE and training times for 50 runs.
 
 <!-- --- -->
@@ -40,7 +40,7 @@ Download all the codes into the same folder.
 
 # Usage
 
-#### To run the default experiments:
+### To run the default experiments:
  - Command line: 
 
  Move to the folder with the codes, and run 
@@ -52,7 +52,11 @@ python Encoding.py
 
 Open the Encoding.py file on the IDE, and click 'Run'.
 
+### To switch between the subject systems
 
-#### To change experiment settings:
-Change the codes following the comments in Encoding.py.
+ - Comment and Uncomment the codes following the comments in Encoding.py.
+
+
+### To change experiment settings:
+ - Change the codes defining the experiment parameters following the comments in Encoding.py.
  
