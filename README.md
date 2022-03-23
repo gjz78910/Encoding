@@ -9,7 +9,7 @@ This project contains all the codes and dataset used in the paper ***'Does Confi
 
 
  - **Results.zip**: contains the RMSE and training time recorded by 'Encoding.py'. 
-Each txt file 
+Each txt file corresponds to a subject system, and contains the RMSE and training times for 50 runs.
 
 <!-- --- -->
 
