@@ -1,7 +1,9 @@
 # Introduction
 This project contains all the codes and dataset used in the paper ***'Does Configuration Encoding Matter in Learning Software Performance? An Empirical Study on Encoding Schemes'***. Specifically, the documents include:
 
-- **Encoding.py**: the *main program* used for loading the dataset, learning the machine learning models, testing the models and saving the results.
+- **Encoding.py**: 
+
+The $\underline{main program}$ used for loading the dataset, learning the machine learning models, testing the models and saving the results.
 
  - **mlp_sparse_model.py, mlp_plain_model.py, utils**: We take these codes from 'https://github.com/DeepPerf/DeepPerf', which is a state-of-the-art deep learning model for performance prediction. We use their model as the neural network performance prediction model in our paper.
 
