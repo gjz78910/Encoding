@@ -53,7 +53,6 @@ python Encoding.py
 
 Open the Encoding.py file on the IDE, and click 'Run'.
 
- - To adjust the running settings, change the codes according to the comments 
 
 #### To change experiment settings:
 Change the codes following the comments in Encoding.py.
