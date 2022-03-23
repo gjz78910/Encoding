@@ -5,7 +5,7 @@ This project contains all the codes and dataset used in the paper ***'Does Confi
 
 The **main program** used for loading the dataset, learning the machine learning models, testing the models and saving the results.
 
- - **mlp_sparse_model.py, mlp_plain_model.py, utils**: 
+ - **mlp_sparse_model.py**, **mlp_plain_model.py**, **utils**: 
 
 We take these codes from 'https://github.com/DeepPerf/DeepPerf', which is a state-of-the-art deep learning model for performance prediction. We use their model as the neural network performance prediction model in our paper.
 
@@ -14,7 +14,7 @@ We take these codes from 'https://github.com/DeepPerf/DeepPerf', which is a stat
 The folder contains the datasets for the five subject systems used in this paper.
 
 
- - **Results**
+ - **Results**:
 
 The folder contains the raw RMSE and training time recorded by 'Encoding.py'. 
 Each txt file corresponds to a subject system, and contains the RMSE and training times for 50 runs.
