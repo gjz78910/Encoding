@@ -11,19 +11,19 @@ This project contains all the codes and dataset used in the paper ***'Does Confi
  - **Results.zip**: contains the RMSE and training time recorded by 'Encoding.py'. 
 Each txt file 
 
----
+<!-- --- -->
 
 # Prerequisites
  - Python 3.6 - 3.7
  - Tensorflow 1.x
 
----
+<!-- --- -->
 
 # Installation
 Download all the codes into the same folder.
 Extract all the zip files to the folder as well.
 
----
+<!-- --- -->
 
 # Datasets
 Five subject systems and their datasets are applied in this study as given below:
@@ -37,7 +37,7 @@ The datasets are originally from 'https://github.com/anonymous12138/multiobj' an
 which are the repositories of two excellent studies in the domain of performance modeling.
 Details of the datasets are given in our paper.
 
----
+<!-- --- -->
 
 # Usage
 
