@@ -40,28 +40,23 @@ Download all the codes into the same folder.
 
 # Usage
 
-## To run the default experiment
- - Command line: 
-
-
- Move to the folder with the codes, and run 
+### To run the default experiment
+ - Command line: Move to the folder with the codes, and run 
 ```
 python Encoding.py
 ```
 
- - Python IDE (e.g., Pycharm): 
-
-Open the Encoding.py file on the IDE, and click 'Run'.
+ - Python IDE (e.g., Pycharm): Open the Encoding.py file on the IDE, and click 'Run'.
 
 
 
-#### To switch between subject systems
+### To switch between subject systems
 
  - Comment and Uncomment the codes following the comments in Encoding.py.
 
 
 
 
-#### To change experiment settings:
+### To change experiment settings:
  - Alter the codes following the comments in Encoding.py.
  
