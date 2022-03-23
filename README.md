@@ -40,8 +40,10 @@ Download all the codes into the same folder.
 
 # Usage
 
-#### To run the default experiment:
+<details>
+<summary>To run the default experiment<\summary>
  - Command line: 
+<\details>
 
  Move to the folder with the codes, and run 
 ```
@@ -62,5 +64,5 @@ Open the Encoding.py file on the IDE, and click 'Run'.
 
 
 #### To change experiment settings:
- - Change the codes defining the experiment parameters following the comments in Encoding.py.
+ - Alter the codes following the comments in Encoding.py.
  
