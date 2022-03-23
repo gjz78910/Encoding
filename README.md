@@ -41,12 +41,12 @@ Download all the codes into the same folder.
 # Usage
 
 ### To run the default experiment
- - Command line: Move to the folder with the codes, and run 
+ - **Command line**: Move to the folder with the codes, and run 
 ```
 python Encoding.py
 ```
 
- - Python IDE (e.g., Pycharm): Open the Encoding.py file on the IDE, and click 'Run'.
+ - **Python IDE (e.g. Pycharm)**: Open the Encoding.py file on the IDE, and click 'Run'.
 
 
 
